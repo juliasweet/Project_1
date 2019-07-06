@@ -1,0 +1,116 @@
+GL,GL Name,Sponsored Class,Sp_Class_Name,Line Items
+611001,SAL-FACULTY FT/PT,610000,Salaries & Wages,Personnel
+611005,SALARY -FAC TLC,610000,Salaries & Wages,Personnel
+613001,SAL-NADM STF FT/PT,610000,Salaries & Wages,Personnel
+613003,SAL-NOAD FT/PT OT ST,610000,Salaries & Wages,Personnel
+613004,SAL-NON-ADM STF TLC,610000,Salaries & Wages,Personnel
+613006,SAL-NOADM TLC OT STD,610000,Salaries & Wages,Personnel
+615001,SAL-STUDENT GRAD FWS,610000,Salaries & Wages,Personnel
+615002,SAL-STUDENT GRAD,610000,Salaries & Wages,Personnel
+615008,SAL-POST DIFFERNTIAL,610000,Salaries & Wages,Personnel
+616003,SAL-OVRSEA (NOT SAP),610000,Salaries & Wages,Personnel
+616005,SAL-OVRSEA HOUS ALLW,610000,Salaries & Wages,Personnel
+616008,SAL-OVRSEA LIV ALLOW,610000,Salaries & Wages,Personnel
+616009,SAL-OVRSEA ED ALLOW,610000,Salaries & Wages,Personnel
+616104,SPEC PROJ SUP (TLC),610000,Salaries & Wages,Personnel
+616112,IN-COUNTRY SALARIES,610000,Salaries & Wages,Personnel
+612001,SAL-ADM STAFF FT/PT,612000,Administrative Salar,Personnel
+612003,SAL-ADM FT/PT OT STD,612000,Administrative Salar,Personnel
+612004,SAL- ADMIN STAFF TLC,612000,Administrative Salar,Personnel
+612006,SAL-ADM TLC OT STD,612000,Administrative Salar,Personnel
+620001,FRINGE BEN EXP FT/PT,620000,Fringe Benefits,Fringe
+620002,FRINGE BEN EXP TLC,620000,Fringe Benefits,Fringe
+620112,IN-COUNTRY FRINGE,620000,Fringe Benefits,Fringe
+630037,IMP-HEART VALVE (M),630000,Supplies & Materials,Supplies and Materials
+631001,FURNITURE,630000,Supplies & Materials,Supplies and Materials
+631003,NONCAPITAL PC PURCH,630000,Supplies & Materials,Supplies and Materials
+632001,OTHER INSTRUCT SUP,630000,Supplies & Materials,Supplies and Materials
+632002,UNALLOC PCARD EXP,630000,Supplies & Materials,Supplies and Materials
+632101,OTHER RESRCH SUP,630000,Supplies & Materials,Supplies and Materials
+633001,NON-MED SUP & EQ,630000,Supplies & Materials,Supplies and Materials
+633028,CLEANING SUPPLIES,630000,Supplies & Materials,Supplies and Materials
+633032,OFFICE SUPPLIES,630000,Supplies & Materials,Supplies and Materials
+633037,PUBS/JOURNALS/SUBSC,630000,Supplies & Materials,Supplies and Materials
+635001,ELECTRICITY,630000,Supplies & Materials,Supplies and Materials
+635008,GASOLINE,630000,Supplies & Materials,Supplies and Materials
+635009,UTILITIES-OTHER,630000,Supplies & Materials,Supplies and Materials
+635010,UTILITIES-WATER,630000,Supplies & Materials,Supplies and Materials
+640281,POSTAGE,630000,Supplies & Materials,Supplies and Materials
+640282,DELIVERY SERVICE,630000,Supplies & Materials,Supplies and Materials
+637001,EQ MAINT AGRMT,637000,Repairs & Maintenanc,Other Direct Costs
+637003,VEHICLE REP & MAINT,637000,Repairs & Maintenanc,Other Direct Costs
+640102,LEASED FAC- EXTERNAL,640102,Leased Facilities Ex,Contractual
+640041,PUR OUTSDE LABOR SVC,640300,Contractual Services,Contractual
+640042,TEMP SVCS - FEES,640300,Contractual Services,Contractual
+640101,RENTAL SHORT-TERM,640300,Contractual Services,Contractual
+640151,RENT OFFCE SPACE (R),640300,Contractual Services,Contractual
+640202,EQUIP LEASE PYMT(UR),640300,Contractual Services,Contractual
+640205,MOTOR VHCLE LEASE(R),640300,Contractual Services,Contractual
+640301,CONT SVCS-GENL,640300,Contractual Services,Contractual
+640317,GROUNDS MAINT,640300,Contractual Services,Contractual
+640318,CONT SVCS-CLEANING,640300,Contractual Services,Contractual
+640321,CONTRACT SVC-STORAGE,640300,Contractual Services,Contractual
+640326,WASTE REMOV-INFECT,640300,Contractual Services,Contractual
+640341,SECURITY SERVICES,640300,Contractual Services,Contractual
+640351,SVC PRO EXT LEGL FEE,640300,Contractual Services,Contractual
+640361,ACCT/AUDIT EXPENSE 1,640300,Contractual Services,Contractual
+640381,PROF SERVICES-EXT,640300,Contractual Services,Contractual
+640455,SOFTWARE-MAINT AGREE,640300,Contractual Services,Contractual
+640501,CONSULTANT FEES,640300,Contractual Services,Contractual
+642501,PRINTING,640300,Contractual Services,Contractual
+960400,SERVICES,640300,Contractual Services,Contractual
+960466,RENT,640300,Contractual Services,Contractual
+985102,PRCHSVC OTH-DSM LBR1,640300,Contractual Services,Contractual
+985202,PRCHSVC OTH-DSM LBR2,640300,Contractual Services,Contractual
+640304,CONSULTANT SVCS 1,640500,Consultant,Contractual
+641401,TELEPHONE LOCAL,641400,Telecommunications,Other Direct Costs
+641402,TELEPH LONG DISTANCE,641400,Telecommunications,Other Direct Costs
+641403,TELEPHONE NETWORK,641400,Telecommunications,Other Direct Costs
+641405,WIRELESS PHONE,641400,Telecommunications,Other Direct Costs
+642405,SUBAWARD GENERAL,642400,Subaward,Subawards
+642410,SUBAWARD SUPP & MAT,642400,Subaward,Subawards
+642411,SUBAWARD CONT SVCS,642400,Subaward,Subawards
+642418,SUBAWARD GEN NO-MTDC,642400,Subaward,Subawards
+640401,LICENSES/REGISTRATN,642500,Other Expenses,Other Direct Costs
+640403,MEMBERSHIPS/DUES,642500,Other Expenses,Other Direct Costs
+642001,MEALS & ENT UNALLOW,642500,Other Expenses,Other Direct Costs
+642002,MEALS NON TRAVEL,642500,Other Expenses,Other Direct Costs
+642003,FOOD COSTS/CATERING,642500,Other Expenses,Other Direct Costs
+642211,INSURANCE-GENERAL,642500,Other Expenses,Other Direct Costs
+643012,VAT TAX PAID,642500,Other Expenses,Other Direct Costs
+647001,TRAINING,642500,Other Expenses,Other Direct Costs
+647002,CONFERENCE/SEMINAR,642500,Other Expenses,Other Direct Costs
+651851,BANK SERVICE CHARGES,642500,Other Expenses,Other Direct Costs
+652501,MVG EXP-NON TAXABLE,642500,Other Expenses,Other Direct Costs
+652503,OTH MISC NON TRAVEL,642500,Other Expenses,Other Direct Costs
+652505,OVRSEAS HOUSNG ALLOW,642500,Other Expenses,Personnel
+652506,OVRSEAS TUITN ALLOW,642500,Other Expenses,Personnel
+652507,OVERSEAS ALLOW-OTHER,642500,Other Expenses,Personnel
+622502,TRAVEL INSURANCE,643000,Other Expenses Exclu,Other Direct Costs
+631004,COMP SOFTWARE,643000,Other Expenses Exclu,Other Direct Costs
+640504,ADMIN ALLOC PUR SVC,643000,Other Expenses Exclu,Other Direct Costs
+645099,LOC CLEARING,643000,Other Expenses Exclu,Other Direct Costs
+651851,BANK SERVICE CHARGES,643000,Other Expenses Exclu,Other Direct Costs
+651901,FOR CUR EXC GAN/LOSS,643000,Other Expenses Exclu,Other Direct Costs
+652001,DOMESTIC TRAVEL,652000,Travel Domestic,Travel
+652201,TRAINEE TRAVEL,652000,Travel Domestic,Travel
+652101,TRAVEL FOREIGN,652100,Travel Foreign,Travel
+652102,TRAVEL OVERSEA LOCAL,652100,Travel Foreign,Travel
+631099,EQ-SRM ONLY,653400,Equipment,Equipment
+653406,MAJOR MOVABLE EQUIP,653400,Equipment,Equipment
+654014,STU HEALTH INS,654014,Student Health Insur,Other Direct Costs
+960900,SPONS COST OVERRUN,690000,Cost Overrun,Other Direct Costs
+960310,RECHARGE,690007,Recharge,Service Center
+692400,SRV CTR-SERVICES,691500,Service Center,Other Direct Costs
+644001,FACILITY/ADMIN COSTS,699999,Facilities & Admin C,Indirect
+600000,Undistributed Budget,600000,Undistributed Budget,Undistributed Budget
+689999,Restricted Balance,689999,Restricted Balance,Restricted Balance
+644000,Sponsored Support Se,644000,Sponsored Support Se,Other Direct Costs
+699998,F & A Budgeting,699998,F & A Budgeting,Indirect
+642418,Subrecipient Advance,642400,Subrecipient Advance,Sub Advance
+494400,Award Interest,494400,Award Interest,Interest Gain
+690001,Cost Overrun Small B,690001,Cost Overrun Small B,Other Direct Costs
+630064,Medical Supplies,630000,Supplies & Materials,Supplies and Materials
+633002,Expandable Supplies,630000,Supplies & Materials,Supplies and Materials
+633064,Medical Supplies,630000,Supplies & Materials,Supplies and Materials
+,,,,
