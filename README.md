@@ -1,6 +1,6 @@
 # Project_1
 DVA Boot Camp Group Project 1
-# “Relationship between US foreign aid flows and national (political) stability in Sub-Saharan Africa”
+## “Relationship between US foreign aid flows and national (political) stability in Sub-Saharan Africa”
 
 Contributors: Julia Sweet, Ricardo Bonner, Venkata Priyanka Sagi, Eddie Freier, Wondwossen Abatheneh, and Kingsford Brown Dadzie
 	
