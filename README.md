@@ -27,10 +27,10 @@ Country stability ranking
 * If there is a randomness in the aid-stability correlation, what possible factors might explain it? 
 	* Come up with possible explanations for the scenario 
 
-What trends exist in terms of aid given compared to population (per capita aid)? Compared to GDP? 
-Stability ranking
-National population
-GDP
+* What trends exist in terms of aid given compared to population (per capita aid)? Compared to GDP? 
+	* Stability ranking
+	* National population
+	* GDP
 
-For this project, we will examine the relationship between US foreign aid to countries in sub-Saharan Africa and levels of political stability in those countries. We recognize that stability is a subjective term and have chosen to focus on “Political Stability and Absence of Violence,” as defined by the World Bank’s Worldwide Governance Indicators. Documentation for that source is found here: https://info.worldbank.org/governance/wgi/#doc
+### For this project, we will examine the relationship between US foreign aid to countries in sub-Saharan Africa and levels of political stability in those countries. We recognize that stability is a subjective term and have chosen to focus on “Political Stability and Absence of Violence,” as defined by the World Bank’s Worldwide Governance Indicators. Documentation for that source is found here: https://info.worldbank.org/governance/wgi/#doc
 
