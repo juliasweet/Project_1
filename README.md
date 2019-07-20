@@ -19,4 +19,4 @@ Eddie Freier: cleaned USAID data and created Excel files with narrowed data (use
 
 Wondwossen Abatheneh: idea for project, exploration of population
 
-Kingsford Brown Dadzie: Soucres out Population data (SAA) form the Worldbank  and also collaborated with Eddie no pie chart on total aid given to the region within the years 2002-2017. Also collaborated with Eddie on comparison of total aid to population using scatter plots as the visualization. 
+Kingsford Brown Dadzie: I sourced out the Population data (SAA) from the Worldbank  and also collaborated with Eddie no pie chart on total aid given to the region within the years 2002-2017. Also collaborated with Eddie on comparison of total aid to population using scatter plots as the visualization. 
